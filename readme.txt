@@ -6,7 +6,7 @@ Requires at least: 2.0.2
 Tested up to: 2.7
 Stable tag: 1.0
 
-This Wordress plugin in the top right corner of your site to appear in the date you wish to place on the corner band does.
+This Wordress plugin in the top right corner of your site to appear in the date you wish to place on the corner band does. This is english versiyon. But the screenshots is Turkish version. If you want to use Turkish version please download it from http://dastan.biz/gune-ozel-kose-bandi
 
 == Description ==
 
