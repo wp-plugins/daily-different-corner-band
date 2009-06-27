@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Daily Different Corner Band
-Plugin URI: http://www.dastan.biz/daily-different-corner-band/
+Plugin URI: http://www.dastan.biz/tag/daily-different-corner-band/
 Description: Different corner bands with different special days.
 Author: Cem DASTAN
 Version: 1.0
