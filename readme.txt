@@ -18,7 +18,16 @@ This Wordress plugin in the top right corner of your site to appear in the date 
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Go to Settings and Daily Different Corner Band menu and add your corner bands about special days
 
+== Frequently Asked Questions ==
+
+Just install and activate this plugin
+
 == Screenshots ==
 
 1. Settings
 2. Example
+
+== Changelog ==
+
+= 1.0 =
+First version
