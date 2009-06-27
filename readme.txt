@@ -3,7 +3,7 @@ Contributors: dastanbiz
 Donate link: http://dastan.biz/
 Tags: corner band, ribbon
 Requires at least: 2.0.2
-Tested up to: 2.7
+Tested up to: 2.8
 Stable tag: 1.0
 
 This Wordress plugin in the top right corner of your site to appear in the date you wish to place on the corner band does. 
